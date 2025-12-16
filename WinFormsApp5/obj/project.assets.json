@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\proje\\proje\\deneme2\\WinFormsApp5\\WinFormsApp5\\WinFormsApp5\\RollandKnow.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\sil2\\WinFormsApp5\\RollandKnow.csproj",
       "projectName": "RollandKnow",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\proje\\proje\\deneme2\\WinFormsApp5\\WinFormsApp5\\WinFormsApp5\\RollandKnow.csproj",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\sil2\\WinFormsApp5\\RollandKnow.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\proje\\proje\\deneme2\\WinFormsApp5\\WinFormsApp5\\WinFormsApp5\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\sil2\\WinFormsApp5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

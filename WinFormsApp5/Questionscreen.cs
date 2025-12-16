@@ -260,7 +260,7 @@ namespace RollandKnow
                 // The score to save is the current total score
                 int finalScore = totalscore;
 
-                MessageBox.Show("Çekildiniz. Skorunuz: " + finalScore.ToString(), "Oyun Bitti");
+                MessageBox.Show("You have withdrawn. Your score: " + finalScore.ToString(), "Game Over.");
 
                 // Call the centralized handler
                 HandleGameOver(finalScore);
